@@ -9,5 +9,4 @@ linters:
   enable:
     - vet
     - ineffassign
-    - deadcode
     - staticcheck
