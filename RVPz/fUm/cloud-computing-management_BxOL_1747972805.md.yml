@@ -1,0 +1,97 @@
+project_name: kanister
+before:
+  hooks:
+  - go mod download
+release:
+  prerelease: auto
+  extra_files:
+  - glob: 'helm_package/kanister-operator-*.tgz'
+builds:
+- id: kanctl
+  binary: kanctl
+  main: cmd/kanctl/main.go
+  ldflags: &ldflags
+  - -extldflags "-static"
+    -X github.com/kanisterio/kanister/pkg/version.Version={{.Version}}
+    -X github.com/kanisterio/kanister/pkg/version.GitCommit={{.Commit}}
+    -X github.com/kanisterio/kanister/pkg/version.BuildDate={{.Date}}
+  env: &env
+  - GO111MODULE=on
+  - CGO_ENABLED=1
+  - GOEXPERIMENT=boringcrypto
+  - CC=gcc
+  - CXX=g++
+  - GO_EXTLINK_ENABLED=0
+  goos:
+  - linux
+  goarch: &goarch
+  - amd64
+- id: kando
+  binary: kando
+  main: ./cmd/kando
+  ldflags: *ldflags
+  env: *env
+  tags:
+  - fipsonly
+  goos: &goos
+  - linux
+  goarch: *goarch
+- id: controller
+  binary: controller
+  main: cmd/controller/main.go
+  ldflags: *ldflags
+  env: *env
+  goos: *goos
+  goarch: *goarch
+- id: repo-server-controller
+  binary: repo-server-controller
+  main: cmd/reposervercontroller/main.go
+  ldflags: *ldflags
+  env: *env
+  goos: *goos
+  goarch: *goarch
+dockers:
+- ids:
+  - controller
+  image_templates:
+  - 'ghcr.io/kanisterio/controller:{{ .Tag }}'
+  dockerfile: 'docker/controller/Dockerfile'
+  build_flag_templates:
+  - "--pull"
+- ids:
+  - repo-server-controller
+  image_templates:
+  - 'ghcr.io/kanisterio/repo-server-controller:{{ .Tag }}'
+  dockerfile: 'docker/repo-server-controller/Dockerfile'
+  build_flag_templates:
+  - "--pull"
+- ids:
+  - kando
+  image_templates:
+  - 'ghcr.io/kanisterio/kanister-tools:{{ .Tag }}'
+  dockerfile: 'docker/tools/Dockerfile'
+  build_flag_templates:
+  - "--pull"
+  - "--build-arg=kan_tools_version={{ .Tag }}"
+  - "--build-arg=kopia_build_commit=aa96483aaded"
+  - "--build-arg=kopia_repo_org=kopia"
+  extra_files:
+  - 'LICENSE'
+- image_templates:
+  - 'ghcr.io/kanisterio/kanister-kubectl-1.18:{{ .Tag }}'
+  dockerfile: 'docker/kanister-kubectl/Dockerfile'
+  build_flag_templates:
+  - "--build-arg=TOOLS_IMAGE=ghcr.io/kanisterio/kanister-tools:{{ .Tag }}"
+snapshot:
+  name_template: '{{ .Tag }}'
+checksum:
+  name_template: 'checksums.txt'
+changelog:
+  sort: asc
+  filters:
+    exclude:
+    - '^docs:'
+    - '^test:'
+    - '^pre-release:'
+archives:
+  - allow_different_binary_count: true
