@@ -7,5 +7,4 @@
 ```
 - [Title of Paper, Article, Blog](url) `Organization`
 ```
-
 Thank you for contributing to this repository of applied ML content! 🙇‍♂️
