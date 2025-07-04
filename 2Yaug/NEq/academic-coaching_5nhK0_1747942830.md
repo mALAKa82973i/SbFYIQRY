@@ -1,6 +1,5 @@
 # Fundamental Skills
 
-## Mental Math
 
 A good way to practice your basic arithmetic skills is to visit [zetamac](https://arithmetic.zetamac.com/), which
 prompts you simple math problems quickly. Your goal is to answer as many problems as you can quickly. Notice that
