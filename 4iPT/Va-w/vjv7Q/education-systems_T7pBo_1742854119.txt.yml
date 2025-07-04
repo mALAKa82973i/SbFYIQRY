@@ -5,7 +5,6 @@ engines:
   eslint:
     enabled: true
     channel: "eslint-7"
-    extensions:
     - .js
     - .jsx
   csslint:
