@@ -129,7 +129,6 @@ types:
 
 ### IaC (Terraform) Styleguide
 
-* We follow the [official HashiCorp style guide](https://developer.hashicorp.com/terraform/language/syntax/style) for
   Terraform.
 
 ### Documentation Styleguide
