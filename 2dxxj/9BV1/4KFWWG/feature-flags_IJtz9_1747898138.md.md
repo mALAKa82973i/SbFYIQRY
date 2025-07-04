@@ -72,4 +72,3 @@ EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 3, YOUR CONTRIBUTION IS PROVIDED "A
 
 **This Agreement contains the entire understanding of the parties regarding the subject matter of this Agreement and supersedes all prior and contemporaneous negotiations and agreements, whether written or oral, between the parties with respect to the subject matter of this Agreement.**
 
-By signing this agreement, Contributor accepts and agrees to the preceding terms and conditions for Contributor’s present and future Contributions submitted to Us. 
