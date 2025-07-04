@@ -2512,7 +2512,6 @@
     },
     "node_modules/vite-node": {
       "version": "2.1.1",
-      "resolved": "https://registry.npmjs.org/vite-node/-/vite-node-2.1.1.tgz",
       "integrity": "sha512-N/mGckI1suG/5wQI35XeR9rsMsPqKXzq1CdUndzVstBj/HvyxxGctwnK6WX43NGt5L3Z5tcRf83g4TITKJhPrA==",
       "dev": true,
       "dependencies": {
