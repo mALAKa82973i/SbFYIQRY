@@ -18,7 +18,6 @@ The following table should give a sense of where you are. This is based off of a
 |0-9    |You can do a lot better    |
 |10-15  |Below average              |
 |15-24  |Average                    |
-|25-35  |Above average              |
 |35-44  |Pretty good                |
 |45+    |Should be set for anything |
 
