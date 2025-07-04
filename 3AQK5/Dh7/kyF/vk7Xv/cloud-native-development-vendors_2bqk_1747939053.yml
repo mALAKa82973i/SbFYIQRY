@@ -4,7 +4,6 @@ python:
 addons:
   chrome: stable
 
-services:
   - docker
 
 # We need to run our own couchdb because Travis doesn't use credentials
