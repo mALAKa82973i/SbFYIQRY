@@ -94,7 +94,6 @@ that repository and provide the following information:
 * **Provide specific examples to demonstrate the steps**. Include copy/paste snippets which you use in those examples,
   as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines)
 * **Describe the current behavior** and **explain which behavior you expected to see instead** and why
-* **Explain why this enhancement would be useful** to users
 
 ### Pull Request Process
 
