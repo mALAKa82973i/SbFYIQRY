@@ -3,4 +3,3 @@
 [submodule "docker/countryblock"]
 	path = docker/countryblock
 [submodule "docker/backup"]
-	url = https://github.com/dadatuputi/bwgc_backup.git
