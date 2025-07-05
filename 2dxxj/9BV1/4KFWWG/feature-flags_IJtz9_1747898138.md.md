@@ -50,7 +50,6 @@ Any rights in Your Contribution not expressly licensed under this Agreement are 
 
 ### 3. Representations
 
-You represent (promise) that You are legally entitled to grant the above licenses. If Your employer(s) has rights to intellectual property that you create that includes your Contributions, You represent that You have received permission to make Contributions on behalf of that employer, that Your employer has waived such rights for your Contributions to Us, or that Your employer has executed a separate Corporate Contributor License Agreement with Us.
 
 You further represent that each of Your Contributions is Your original creation. You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
 
