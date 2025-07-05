@@ -113,7 +113,6 @@ Please use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/
 types:
 `feat`, `fix`, `chore`, `reafactor`, `docs`, `test`
 
-* Write commit messages in the present tense, e.g., 'Add feature' rather than 'Added feature.'
 * Use the imperative mood ("Move logic to..." not "Moves logic to...")
 * Limit the first line to 72 characters or fewer
 * To indicate Breaking Change appends a ! after the type/scope
