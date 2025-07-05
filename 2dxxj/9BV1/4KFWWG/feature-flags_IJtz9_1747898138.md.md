@@ -63,7 +63,6 @@ EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 3, YOUR CONTRIBUTION IS PROVIDED "A
 ### 5. Miscellaneous
 
 5.1 This Agreement will be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflicts of law provisions. If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. The sole venue for all disputes relating to this Agreement shall be in the New Castle County, Delaware (USA). The rights and obligations of the parties under this Agreement shall not be governed by the 1980 U.N. Convention on Contracts for the International Sale of Goods.
-
 5.2 This Agreement may be amended only by a written document signed by the party against whom enforcement is sought.
 
 5.3 The failure of either party to require performance by the other party of any provision of this Agreement in one situation shall not affect the right of a party to require such performance at any time in the future. A waiver of performance under a provision in one situation shall not be considered a waiver of the performance of the provision in the future or a waiver of the provision in its entirety.
