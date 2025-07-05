@@ -4,5 +4,4 @@
 - New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it would look like:
 
 - [Title of Paper, Article, Blog](url) `Organization`
-```
 Thank you for contributing to this repository of applied ML content! 🙇‍♂️
