@@ -61,7 +61,6 @@ module.exports = [
       lodash: lodashPlugin,
       jest: jestPlugin,
       import: importPlugin,
-      'jsx-a11y': jsxA11yPlugin,
       'no-barrel-files': barrelPlugin,
       '@grafana': grafanaPlugin,
       'testing-library': testingLibraryPlugin,
