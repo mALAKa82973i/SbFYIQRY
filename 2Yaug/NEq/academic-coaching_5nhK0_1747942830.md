@@ -8,7 +8,6 @@ because they don't penalize you for inputting wrong answers, try to not guess yo
 One thing I hope you notice is that as you try to get faster at these simple math problems, you will start noticing
 in the form of 97 + 45 = (100 - 3) + 45 = 143, but I would highly recommend trying to figure out what tricks
 work for _you_. If you find that you aren't improving anymore, maybe then it might be worth to search up some
-arithmetic tricks.
 
 The following table should give a sense of where you are. This is based off of a 120 second test, with default settings on.
 
