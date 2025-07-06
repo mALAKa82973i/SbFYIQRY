@@ -79,7 +79,6 @@ requesting existed.
 
 #### Before Submitting An Enhancement Suggestion
 
-* **Check if enhancement is implemented in existing component of pipeline or there is an existing component with
   desired functionality**
 * **Perform a [cursory search](https://github.com/CloudGeometry/cgdevx-core/issues)** to see if the enhancement has
   already been suggested. If it has, add a comment to the existing issue instead of opening a new one
