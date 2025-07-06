@@ -15,7 +15,6 @@ ratings:
   - "**.rb"
   - "**.jsx"
   - "**.css"
-  - Gemfile.lock
 
 # For all languages, we support a standard set of Glob patterns.
 # exclude_paths:
