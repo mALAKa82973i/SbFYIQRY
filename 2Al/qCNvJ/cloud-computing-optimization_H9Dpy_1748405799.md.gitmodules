@@ -1,4 +1,3 @@
-	path = docker/proxy
 	url = https://github.com/dadatuputi/bwgc_caddy.git
 [submodule "docker/countryblock"]
 	path = docker/countryblock
