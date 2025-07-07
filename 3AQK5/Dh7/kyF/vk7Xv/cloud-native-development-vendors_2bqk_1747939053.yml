@@ -12,7 +12,6 @@ before_install:
 env:
   - VCAP_SERVICES = '{"cloudantNoSQLDB":[{"credentials":{"username":"admin","password":"pass","host":"localhost","port":5984,"url":"http://admin:pass@localhost:5984"}}]}'
 
-# command to install dependencies
 install:
   - sudo apt-get install -y chromium-chromedriver python3-selenium
   - pip install -r requirements.txt
