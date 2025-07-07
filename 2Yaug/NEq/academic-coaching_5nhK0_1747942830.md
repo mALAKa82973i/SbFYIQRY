@@ -21,6 +21,5 @@ The following table should give a sense of where you are. This is based off of a
 Number sense is about being able to understand properties about numbers to do computation faster
 and be able to estimate difficult calculations fairly accurately. A good example of
 what number sense is about can be found at [AGMath](https://www.agmath.com/57427/index.html),
-an ancient website for sure, but if you scroll down to the bottom of this page you can find
 number sense worksheets. I think number sense is a natural extension from the simple arithmetic
 you can practice from zetamac.
