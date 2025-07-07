@@ -17,7 +17,6 @@ ratings:
   - "**.css"
 
 # exclude_paths:
-# - app/helpers/users_helper.php # Exclude a specific file
 # - app/controllers/* # Exclude all contents of a folder (including all subfolders)
 # - app/controllers/*.py # Exclude specific files type within a folder/subfolders
 exclude_paths:
