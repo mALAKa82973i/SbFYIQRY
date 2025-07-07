@@ -15,7 +15,6 @@ ratings:
   - "**.rb"
   - "**.jsx"
   - "**.css"
-
 # exclude_paths:
 # - app/controllers/* # Exclude all contents of a folder (including all subfolders)
 # - app/controllers/*.py # Exclude specific files type within a folder/subfolders
