@@ -15,7 +15,6 @@ The following table should give a sense of where you are. This is based off of a
 |10-15  |Below average              |
 |15-24  |Average                    |
 |35-44  |Pretty good                |
-|45+    |Should be set for anything |
 
 ## Number Sense
 
