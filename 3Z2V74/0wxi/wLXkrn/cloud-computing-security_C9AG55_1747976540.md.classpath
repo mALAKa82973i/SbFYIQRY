@@ -70,7 +70,6 @@
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/slf4j-api-1.7.2.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/soa-model-core-1.4.1.4.jar"/>
-	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/soa-model-distribution-1.4.1.4.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/weka.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/woden-impl-commons-1.0M9.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/wsdl4j-1.6.2.jar"/>
