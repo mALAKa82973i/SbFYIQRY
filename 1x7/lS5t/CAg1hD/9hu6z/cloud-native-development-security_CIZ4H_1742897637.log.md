@@ -93,7 +93,6 @@ that repository and provide the following information:
 * **Describe the current behavior** and **explain which behavior you expected to see instead** and why
 
 ### Pull Request Process
-
 * Fill in [the template](PULL_REQUEST_TEMPLATE.md)
 * Avoid including issue numbers in the PR title to maintain clarity. Instead, reference issue numbers in the PR description if necessary.
 * Follow the [Python](#python-styleguide) styleguide
