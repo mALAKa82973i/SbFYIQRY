@@ -45,7 +45,6 @@ You acknowledge that We are not obligated to use Your Contribution as part of an
 
 #### 2.6 Reservation of Rights
 
-Any rights in Your Contribution not expressly licensed under this Agreement are expressly reserved by You.
 
 ### 3. Representations
 
