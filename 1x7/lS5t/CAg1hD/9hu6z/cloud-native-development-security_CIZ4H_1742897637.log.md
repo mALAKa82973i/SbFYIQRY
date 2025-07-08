@@ -15,7 +15,6 @@ Note: Our community thrives by adhering to a Code of Conduct, which we expect al
 
 [Styleguide](#styleguide)
 
-* [Git Commit Messages](#git-commit-messages)
 * [Python Styleguide](#python-styleguide)
 * [Documentation Styleguide](#documentation-styleguide)
 
