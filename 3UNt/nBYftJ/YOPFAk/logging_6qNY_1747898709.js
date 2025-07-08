@@ -70,7 +70,6 @@ module.exports = [
       // it also conflicts with the betterer eslint rules so disabled
       reportUnusedDisableDirectives: false,
     },
-  },
   {
     files: ['**/*.{js,jsx,ts,tsx}'],
     rules: {
