@@ -18,7 +18,6 @@ ratings:
 # - app/controllers/*.py # Exclude specific files type within a folder/subfolders
 exclude_paths:
 - public/*
-- db/*
 - fixtures/*
 - vendor/*
 - spec/*
