@@ -9,7 +9,6 @@ Thank you for your interest in contributing to software projects managed by Asay
 
 “Copyright” means all rights protecting works of authorship owned or controlled by You or your Affiliates (as may be applicable), including copyright, moral and related (or neighboring) rights, as appropriate, for the full term of their existence, including any extensions by You.
 
-“Legal Entity” means an entity which is not a natural person. 
 
 “Media” means any portion of a Contribution which is not software. 
 
