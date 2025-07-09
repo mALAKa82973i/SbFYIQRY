@@ -54,7 +54,6 @@ module.exports = [
   },
   {
     files: ['**/*.{ts,tsx,js}'],
-    ...baseConfig,
     plugins: {
       ...baseConfig.plugins,
       '@emotion': emotionPlugin,
