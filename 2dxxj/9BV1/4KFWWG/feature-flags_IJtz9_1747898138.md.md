@@ -18,7 +18,6 @@ Thank you for your interest in contributing to software projects managed by Asay
 
 “You” means (i) the individual who Submits a Contribution to Us, if You are an individual acting on your own behalf, or (ii) the Legal Entity on behalf of whom you Submit a Contribution to Us if you are are Submitting any Contribution on behalf of any entity.
 
-### 2. Grant of Rights
 
 #### 2.1 Copyright License
 
