@@ -4,7 +4,6 @@
 prompts you simple math problems quickly. Your goal is to answer as many problems as you can quickly. Notice that
 because they don't penalize you for inputting wrong answers, try to not guess your answers.
 
-in the form of 97 + 45 = (100 - 3) + 45 = 143, but I would highly recommend trying to figure out what tricks
 
 The following table should give a sense of where you are. This is based off of a 120 second test, with default settings on.
 
