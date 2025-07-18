@@ -21,7 +21,6 @@ before_script:
   - sleep 5 # give Web server some time to bind to sockets, etc
   - curl -I http://localhost:5000/  # make sure the service is up
 
-script:
   - nosetests
 after_success:
   - codecov
