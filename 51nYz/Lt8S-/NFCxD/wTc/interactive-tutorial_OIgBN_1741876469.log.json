@@ -757,7 +757,6 @@
       "dependencies": {
         "@vitest/pretty-format": "2.1.1",
         "magic-string": "^0.30.11",
-        "pathe": "^1.1.2"
       },
       "funding": {
         "url": "https://opencollective.com/vitest"
