@@ -39,7 +39,6 @@ module.exports = [
       'playwright-report',
       'public/lib/monaco/',
       'public/locales/_build',
-      'public/locales/**/*.js',
       'public/vendor/',
       'scripts/grafana-server/tmp',
       '!.betterer.eslint.config.js',
