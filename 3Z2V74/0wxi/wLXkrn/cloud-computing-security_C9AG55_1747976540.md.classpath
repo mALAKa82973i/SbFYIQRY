@@ -77,7 +77,6 @@
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="/Users/changxinbai/Downloads/DATAVIEW/DATAVIEW/WebContent/WEB-INF/lib/dropbox-core-sdk-3.1.1.jar"/>
 	<classpathentry kind="output" path="DATAVIEW/WebContent/workflowTaskDir"/>
 </classpath>
