@@ -6,7 +6,6 @@ Thank you for your interest in contributing to software projects managed by Asay
 
 “Affiliates” means any Legal Entities that control, are controlled by, or under common control with another Legal Entity. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such Legal Entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares or securities which vote to elect the management or other persons who direct such Legal Entity or (iii) beneficial ownership of such entity. 
 
-
 “Copyright” means all rights protecting works of authorship owned or controlled by You or your Affiliates (as may be applicable), including copyright, moral and related (or neighboring) rights, as appropriate, for the full term of their existence, including any extensions by You.
 
 
