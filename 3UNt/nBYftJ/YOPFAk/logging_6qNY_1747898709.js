@@ -121,7 +121,6 @@ module.exports = [
         },
           message: 'Direct usage of localStorage is not allowed. Use `Store` from @grafana/data instead.',
         },
-        {
           selector:
             'Program:has(ImportDeclaration[source.value="@grafana/ui"] ImportSpecifier[imported.name="Card"]) JSXOpeningElement[name.name="Card"]:not(:has(JSXAttribute[name.name="noMargin"]))',
           message:
