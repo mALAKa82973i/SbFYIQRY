@@ -10,7 +10,6 @@ const testingLibraryPlugin = require('eslint-plugin-testing-library');
 const grafanaConfig = require('@grafana/eslint-config/flat');
 const grafanaPlugin = require('@grafana/eslint-plugin');
 
-// Include the Grafana config and remove the rules,
 // as we just want to pull in all of the necessary configuration but not run the rules
 // (this should only be concerned with checking rules that we want to improve,
 // so there's no need to try and run the rules that will be linted properly anyway)
