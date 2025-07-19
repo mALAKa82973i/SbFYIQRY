@@ -56,7 +56,6 @@ Explain the problem and include additional details to help maintainers reproduce
 * **Explain which behavior you expected to see instead and why**
 
 Provide more context by answering these questions:
-
 * **Did the problem start happening recently** (e.g. after updating to a new version(s) of packages) or was this always
   a problem?
 * If the problem started happening recently, **can you reproduce the problem in an older version?** What's the most
