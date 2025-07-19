@@ -272,7 +272,6 @@
       ],
       "dev": true,
       "optional": true,
-      "os": [
         "linux"
       ],
       "engines": {
