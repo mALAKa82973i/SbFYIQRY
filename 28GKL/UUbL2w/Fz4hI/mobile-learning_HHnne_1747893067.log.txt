@@ -8,7 +8,6 @@ project(aloha)
   interbotix_xsarm_control
   rosbag
   roscpp
-  tf2_ros
   rviz
   sensor_msgs
   std_msgs
