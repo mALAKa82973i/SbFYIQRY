@@ -20,7 +20,6 @@ project(aloha)
 ## The catkin_package macro generates cmake config files for your package
 ## Declare things to be passed to dependent projects
 catkin_package(
- CATKIN_DEPENDS interbotix_xs_msgs interbotix_xsarm_control rosbag roscpp tf2_ros rviz sensor_msgs std_msgs std_srvs
 )
 
 ###########
