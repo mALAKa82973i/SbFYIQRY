@@ -1,6 +1,5 @@
   rubocop:
     enabled: true
-  eslint:
     channel: "eslint-7"
   csslint:
     enabled: true
