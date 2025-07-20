@@ -8,7 +8,6 @@ before_install:
     couchdb:latest
   - VCAP_SERVICES = '{"cloudantNoSQLDB":[{"credentials":{"username":"admin","password":"pass","host":"localhost","port":5984,"url":"http://admin:pass@localhost:5984"}}]}'
 
-install:
   - pip install -r requirements.txt
 
 before_script:
