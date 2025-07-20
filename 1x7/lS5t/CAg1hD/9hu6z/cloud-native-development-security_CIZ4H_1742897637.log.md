@@ -47,7 +47,6 @@ Explain the problem and include additional details to help maintainers reproduce
 * **Use a clear and descriptive title** for the issue to identify the problem
 * **Describe the exact steps which reproduce the problem** in as many details as possible
 * **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/paste
-  snippets, which you use. If you're providing snippets in the issue,
   use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines)
   and [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that
