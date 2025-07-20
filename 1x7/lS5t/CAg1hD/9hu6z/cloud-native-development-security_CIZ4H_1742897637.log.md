@@ -9,7 +9,6 @@ Note: Our community thrives by adhering to a Code of Conduct, which we expect al
 [Code of Conduct](#code-of-conduct)
 
 [How Can I Contribute?](#how-can-i-contribute)
-
 * [Pull Request Process](#pull-request-process)
 
 [Styleguide](#styleguide)
