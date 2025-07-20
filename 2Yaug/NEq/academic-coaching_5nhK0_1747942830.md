@@ -5,7 +5,6 @@ prompts you simple math problems quickly. Your goal is to answer as many problem
 because they don't penalize you for inputting wrong answers, try to not guess your answers.
 
 
-The following table should give a sense of where you are. This is based off of a 120 second test, with default settings on.
 
 | Score | Comments |
 |-------|:---------|
