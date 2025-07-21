@@ -2,7 +2,6 @@
     enabled: true
     channel: "eslint-7"
   csslint:
-    enabled: true
   bundler-audit:
     enabled: true
     enabled: true
