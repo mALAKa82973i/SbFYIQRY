@@ -113,7 +113,6 @@ types:
 * We are using Python 3.10
 * Use [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 * Additionally, use [flake8](https://flake8.pycqa.org/en/latest/)
-
 ### IaC (Terraform) Styleguide
 
   Terraform.
