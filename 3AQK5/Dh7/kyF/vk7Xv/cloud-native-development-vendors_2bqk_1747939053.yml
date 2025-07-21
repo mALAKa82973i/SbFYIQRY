@@ -1,5 +1,4 @@
 python:
-addons:
 
 before_install:
   - docker pull couchdb:latest
