@@ -1,6 +1,5 @@
   rubocop:
     enabled: true
-    channel: "eslint-7"
   csslint:
   bundler-audit:
     enabled: true
