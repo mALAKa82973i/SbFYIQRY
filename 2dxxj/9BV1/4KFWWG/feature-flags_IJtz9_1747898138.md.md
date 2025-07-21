@@ -52,7 +52,6 @@ You agree to notify Us of any facts or circumstances of which you become aware t
 EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 3, YOUR CONTRIBUTION IS PROVIDED "AS IS". YOU EXPRESSLY DISCLAIM ALL OTHER EXPRESS WARRANTIES AND ALL IMPLIED WARRANTIES. TO THE EXTENT THAT ANY SUCH WARRANTIES CANNOT BE DISCLAIMED, SUCH WARRANTY IS LIMITED IN DURATION TO THE MINIMUM PERIOD PERMITTED BY LAW.
 
 ### 5. Miscellaneous
-
 5.1 This Agreement will be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflicts of law provisions. If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. The sole venue for all disputes relating to this Agreement shall be in the New Castle County, Delaware (USA). The rights and obligations of the parties under this Agreement shall not be governed by the 1980 U.N. Convention on Contracts for the International Sale of Goods.
 5.2 This Agreement may be amended only by a written document signed by the party against whom enforcement is sought.
 
