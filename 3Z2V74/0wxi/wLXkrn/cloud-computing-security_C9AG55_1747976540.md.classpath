@@ -1,5 +1,4 @@
 <classpath>
-	<classpathentry kind="src" path="DATAVIEW/src"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/uploads/simpledataview.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/apache-commons-lang.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/asm-4.0.jar"/>
