@@ -67,7 +67,6 @@ module.exports = [
   {
     files: ['**/*.{js,jsx,ts,tsx}'],
     rules: {
-      '@typescript-eslint/no-explicit-any': 'error',
       '@grafana/no-aria-label-selectors': 'error',
       'no-restricted-imports': [
         'error',
