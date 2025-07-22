@@ -1,6 +1,5 @@
   rubocop:
     enabled: true
-  csslint:
   bundler-audit:
     enabled: true
     enabled: true
