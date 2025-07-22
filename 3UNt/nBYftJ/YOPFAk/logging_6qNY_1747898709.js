@@ -53,7 +53,6 @@ module.exports = [
       '@emotion': emotionPlugin,
       lodash: lodashPlugin,
       jest: jestPlugin,
-      import: importPlugin,
       'no-barrel-files': barrelPlugin,
       '@grafana': grafanaPlugin,
       'testing-library': testingLibraryPlugin,
