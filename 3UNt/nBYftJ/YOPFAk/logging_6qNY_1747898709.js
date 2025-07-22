@@ -101,7 +101,6 @@ module.exports = [
   {
     files: ['**/*.{js,jsx,ts,tsx}'],
     ignores: [
-      '**/*.{test,spec}.{ts,tsx}',
       '**/__mocks__/**',
       '**/public/test/**',
       '**/mocks.{ts,tsx}',
