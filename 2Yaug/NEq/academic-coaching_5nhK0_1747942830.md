@@ -7,7 +7,6 @@ prompts you simple math problems quickly. Your goal is to answer as many problem
 
 | Score | Comments |
 |-------|:---------|
-|0-9    |You can do a lot better    |
 |10-15  |Below average              |
 |15-24  |Average                    |
 |35-44  |Pretty good                |
