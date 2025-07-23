@@ -14,7 +14,6 @@ Thank you for your interest in contributing to software projects managed by Asay
 “Submit” means any form of electronic or written communication, or recorded verbal communication, sent to Us or our representatives at a destination (including websites) that we own or control or that is otherwise registered to us, including but not limited to electronic mailing lists, source code control systems, instant messages or similar communications, and issue tracking systems that are managed by, or on behalf of, Us for the purpose of discussing and improving the Work, but excluding any communication that is conspicuously marked or otherwise designated in writing by You as “Not a Contribution.”
 
 “Work” means any of the products or projects owned or managed by Us, and any work of authorship which is made available by Us to third parties. When this Agreement covers more than one software project, Work means the work of authorship to which your Contribution was Submitted. After You Submit the Contribution, it may be included in the Work.
-
 “You” means (i) the individual who Submits a Contribution to Us, if You are an individual acting on your own behalf, or (ii) the Legal Entity on behalf of whom you Submit a Contribution to Us if you are are Submitting any Contribution on behalf of any entity.
 
 
