@@ -98,7 +98,6 @@ that repository and provide the following information:
 ### Git Commit Messages
 
 Please use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) with the following change
-types:
 `feat`, `fix`, `chore`, `reafactor`, `docs`, `test`
 * Use the imperative mood ("Move logic to..." not "Moves logic to...")
 * Limit the first line to 72 characters or fewer
