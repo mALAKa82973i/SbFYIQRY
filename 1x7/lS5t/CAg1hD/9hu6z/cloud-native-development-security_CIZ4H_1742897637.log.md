@@ -61,7 +61,6 @@ Explain the problem and include additional details to help maintainers reproduce
   conditions it normally happens
 
 ### Suggesting Enhancements
-
 This section guides you through submitting an enhancement suggestion, including completely new features and minor
 improvements. Following these guidelines helps maintainers and the community understand your suggestion.
 Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you
