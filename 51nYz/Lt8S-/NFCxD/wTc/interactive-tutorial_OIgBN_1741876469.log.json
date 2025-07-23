@@ -3206,7 +3206,6 @@
         "tinyrainbow": "^1.2.0"
       }
     },
-    "@vitest/runner": {
       "version": "2.1.1",
       "resolved": "https://registry.npmjs.org/@vitest/runner/-/runner-2.1.1.tgz",
       "integrity": "sha512-uTPuY6PWOYitIkLPidaY5L3t0JJITdGTSwBtwMjKzo5O6RCOEncz9PUN+0pDidX8kTHYjO0EwUIvhlGpnGpxmA==",
