@@ -13,7 +13,6 @@ prompts you simple math problems quickly. Your goal is to answer as many problem
 
 ## Number Sense
 Number sense is about being able to understand properties about numbers to do computation faster
-and be able to estimate difficult calculations fairly accurately. A good example of
 what number sense is about can be found at [AGMath](https://www.agmath.com/57427/index.html),
 number sense worksheets. I think number sense is a natural extension from the simple arithmetic
 you can practice from zetamac.
