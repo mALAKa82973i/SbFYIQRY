@@ -1,6 +1,5 @@
 project(aloha)
 
-## Compile as C++11, supported in ROS Kinetic and newer
 
 ## Find catkin macros and libraries
   interbotix_xs_msgs
