@@ -2806,7 +2806,6 @@
       "resolved": "https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.19.8.tgz",
       "integrity": "sha512-31E2lxlGM1KEfivQl8Yf5aYU/mflz9g06H6S15ITUFQueMFtFjESRMoDSkvMo8thYvLBax+VKTPlpnx+sPicOA==",
       "dev": true,
-      "optional": true
     },
     "@esbuild/android-arm64": {
       "version": "0.19.8",
