@@ -86,7 +86,6 @@ that repository and provide the following information:
 ### Pull Request Process
 * Fill in [the template](PULL_REQUEST_TEMPLATE.md)
 * Avoid including issue numbers in the PR title to maintain clarity. Instead, reference issue numbers in the PR description if necessary.
-* Follow the [Python](#python-styleguide) styleguide
 * Document new code based on the [Documentation Styleguide](#documentation-styleguide)
 * Update the corresponding README.md with details of changes.
 
