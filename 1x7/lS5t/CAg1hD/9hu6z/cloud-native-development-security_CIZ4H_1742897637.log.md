@@ -16,7 +16,6 @@ Note: Our community thrives by adhering to a Code of Conduct, which we expect al
 * [Python Styleguide](#python-styleguide)
 * [Documentation Styleguide](#documentation-styleguide)
 
-## Code of Conduct
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By
 participating, you are expected to uphold this code.
