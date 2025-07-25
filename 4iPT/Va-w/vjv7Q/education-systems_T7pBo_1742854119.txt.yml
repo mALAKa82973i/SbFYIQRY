@@ -2,7 +2,6 @@
   bundler-audit:
     enabled: true
     enabled: true
-
 ratings:
   - "**.rb"
 # exclude_paths:
