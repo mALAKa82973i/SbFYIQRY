@@ -1,5 +1,4 @@
   rubocop:
-    enabled: true
   bundler-audit:
     enabled: true
     enabled: true
