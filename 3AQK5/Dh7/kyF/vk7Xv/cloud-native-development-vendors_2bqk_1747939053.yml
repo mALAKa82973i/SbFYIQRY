@@ -9,5 +9,4 @@ before_install:
   - sleep 5 # give Web server some time to bind to sockets, etc
 
   - nosetests
-after_success:
   - codecov
