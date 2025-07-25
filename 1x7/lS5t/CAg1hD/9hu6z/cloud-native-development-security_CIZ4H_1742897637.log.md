@@ -93,7 +93,6 @@ that repository and provide the following information:
 ## Styleguide
 
 ### Git Commit Messages
-
 Please use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) with the following change
 `feat`, `fix`, `chore`, `reafactor`, `docs`, `test`
 * Use the imperative mood ("Move logic to..." not "Moves logic to...")
