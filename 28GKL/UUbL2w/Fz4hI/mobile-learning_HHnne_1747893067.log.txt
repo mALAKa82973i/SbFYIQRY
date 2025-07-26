@@ -20,4 +20,3 @@ catkin_package(
 
 ###########
 include_directories(
-)
