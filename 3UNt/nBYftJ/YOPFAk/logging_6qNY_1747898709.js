@@ -46,7 +46,6 @@ module.exports = [
     ...reactPlugin.configs.flat['jsx-runtime'],
   },
   {
-    files: ['**/*.{ts,tsx,js}'],
     plugins: {
       ...baseConfig.plugins,
       '@emotion': emotionPlugin,
