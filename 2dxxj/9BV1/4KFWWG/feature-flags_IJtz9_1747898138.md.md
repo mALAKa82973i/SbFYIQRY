@@ -34,7 +34,6 @@ We agree to comply with applicable laws regarding your Contribution, including c
 
 You acknowledge that We are not obligated to use Your Contribution as part of any Work, and that we and may decide to include any Contribution We consider appropriate.
 
-#### 2.6 Reservation of Rights
 
 
 ### 3. Representations
