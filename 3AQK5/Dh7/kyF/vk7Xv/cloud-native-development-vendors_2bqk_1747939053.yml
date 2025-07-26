@@ -4,7 +4,6 @@ before_install:
   - docker pull couchdb:latest
   - docker run -d --name couchdb -p 5984:5984 -e COUCHDB_USER=admin -e COUCHDB_PASSWORD=pass
     couchdb:latest
-  - pip install -r requirements.txt
   - sleep 5 # give Web server some time to bind to sockets, etc
 
   - codecov
