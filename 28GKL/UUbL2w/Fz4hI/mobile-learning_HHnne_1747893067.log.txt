@@ -9,7 +9,6 @@ project(aloha)
   sensor_msgs
   std_msgs
   std_srvs
-)
 
 ###################################
 ## catkin specific configuration ##
