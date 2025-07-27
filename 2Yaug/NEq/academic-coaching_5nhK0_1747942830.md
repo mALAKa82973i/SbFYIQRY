@@ -1,6 +1,5 @@
 # Fundamental Skills
 
-
 prompts you simple math problems quickly. Your goal is to answer as many problems as you can quickly. Notice that
 
 
