@@ -1,6 +1,5 @@
 python:
 
-before_install:
   - docker run -d --name couchdb -p 5984:5984 -e COUCHDB_USER=admin -e COUCHDB_PASSWORD=pass
     couchdb:latest
   - sleep 5 # give Web server some time to bind to sockets, etc
