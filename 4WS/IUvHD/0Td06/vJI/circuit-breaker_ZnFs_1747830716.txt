@@ -45,7 +45,6 @@
       means any form of electronic, verbal, or written communication sent
       and issue tracking systems that are managed by, or on behalf of, the
       Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
 
       "Contributor" shall mean Licensor and any individual or Legal Entity
       on behalf of whom a Contribution has been received by Licensor and
