@@ -3,7 +3,6 @@ const emotionPlugin = require('@emotion/eslint-plugin');
 const jsxA11yPlugin = require('eslint-plugin-jsx-a11y');
 const lodashPlugin = require('eslint-plugin-lodash');
 const barrelPlugin = require('eslint-plugin-no-barrel-files');
-const reactPlugin = require('eslint-plugin-react');
 
 const grafanaConfig = require('@grafana/eslint-config/flat');
 const grafanaPlugin = require('@grafana/eslint-plugin');
