@@ -34,7 +34,6 @@ To submit a bug report, first verify that your issue hasn't been addressed by ch
 * **Determine which components of the platform cause problem**
 * **Check the FAQs, git pages and forums of those components to identify if the problem is with component itself**
 * **Perform a [cursory search](https://github.com/CloudGeometry/cgdevx-core/issues)** to see if the problem has already
-  been reported. Please review the list to see if a similar suggestion has already been submitted.
 
 #### How Do I Submit A (Good) Bug Report?
 Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue and provide the
