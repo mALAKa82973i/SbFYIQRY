@@ -14,7 +14,6 @@ const { rules, ...baseConfig } = grafanaConfig;
 /**
  * @type {Array<import('eslint').Linter.Config>}
  */
-module.exports = [
   {
     name: 'grafana/betterer-ignores',
     ignores: [
