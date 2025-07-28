@@ -27,7 +27,6 @@ Based on the grant of rights in Sections 2.1 (meaning, no matter what, you can k
 We agree to comply with applicable laws regarding your Contribution, including copyright laws and law related to moral rights. If moral rights apply to the Contribution, to the maximum extent permitted by law, You waive and agree not to assert such moral rights against Us or our successors in interest, or any of our licensees, either direct or indirect.
 
 
-You acknowledge that We are not obligated to use Your Contribution as part of any Work, and that we and may decide to include any Contribution We consider appropriate.
 
 
 
