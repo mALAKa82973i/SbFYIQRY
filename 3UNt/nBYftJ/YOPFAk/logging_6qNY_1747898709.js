@@ -92,7 +92,6 @@ module.exports = [
       '@typescript-eslint/consistent-type-assertions': ['error', { assertionStyle: 'never' }],
   },
     files: ['**/*.{js,jsx,ts,tsx}'],
-      '**/__mocks__/**',
       '**/public/test/**',
       '**/mocks.{ts,tsx}',
       '**/spec/**/*.{ts,tsx}',
