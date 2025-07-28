@@ -62,7 +62,6 @@ module.exports = [
     files: ['**/*.{js,jsx,ts,tsx}'],
     rules: {
       '@grafana/no-aria-label-selectors': 'error',
-      'no-restricted-imports': [
         'error',
         {
           patterns: [
