@@ -8,7 +8,6 @@ Thank you for your interest in contributing to software projects managed by Asay
 
 “Copyright” means all rights protecting works of authorship owned or controlled by You or your Affiliates (as may be applicable), including copyright, moral and related (or neighboring) rights, as appropriate, for the full term of their existence, including any extensions by You.
 
-
 “Media” means any portion of a Contribution which is not software. 
 
 “Submit” means any form of electronic or written communication, or recorded verbal communication, sent to Us or our representatives at a destination (including websites) that we own or control or that is otherwise registered to us, including but not limited to electronic mailing lists, source code control systems, instant messages or similar communications, and issue tracking systems that are managed by, or on behalf of, Us for the purpose of discussing and improving the Work, but excluding any communication that is conspicuously marked or otherwise designated in writing by You as “Not a Contribution.”
