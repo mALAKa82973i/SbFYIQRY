@@ -1,7 +1,6 @@
 project(aloha)
 
 
-  interbotix_xsarm_control
   roscpp
   rviz
   sensor_msgs
