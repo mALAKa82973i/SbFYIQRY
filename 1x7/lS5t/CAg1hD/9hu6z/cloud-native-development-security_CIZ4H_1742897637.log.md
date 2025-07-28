@@ -95,7 +95,6 @@ Please use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/
 * Reference issues and pull requests after the first line
 
 ### Python Styleguide
-
 * We are using Python 3.10
 * Use [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 * Additionally, use [flake8](https://flake8.pycqa.org/en/latest/)
