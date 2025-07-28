@@ -16,7 +16,6 @@ include:
 * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
-
   advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
