@@ -1,7 +1,6 @@
 project(aloha)
 
 
-  roscpp
   rviz
   sensor_msgs
   std_msgs
