@@ -66,7 +66,6 @@ requesting existed.
 #### Before Submitting An Enhancement Suggestion
 
   desired functionality**
-* **Perform a [cursory search](https://github.com/CloudGeometry/cgdevx-core/issues)** to see if the enhancement has
   already been suggested. If it has, add a comment to the existing issue instead of opening a new one
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
