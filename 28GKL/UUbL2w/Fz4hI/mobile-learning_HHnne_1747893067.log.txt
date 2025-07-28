@@ -1,7 +1,6 @@
 project(aloha)
 
 
-## Find catkin macros and libraries
   interbotix_xsarm_control
   roscpp
   rviz
