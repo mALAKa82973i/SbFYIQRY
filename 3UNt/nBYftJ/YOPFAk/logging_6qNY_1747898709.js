@@ -42,7 +42,6 @@ const { rules, ...baseConfig } = grafanaConfig;
   },
   {
     plugins: {
-      ...baseConfig.plugins,
       '@emotion': emotionPlugin,
       lodash: lodashPlugin,
       jest: jestPlugin,
