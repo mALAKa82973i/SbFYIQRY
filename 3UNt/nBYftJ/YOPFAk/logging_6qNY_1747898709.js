@@ -80,7 +80,6 @@ module.exports = [
     ignores: [
       '**/*.{test,spec}.{ts,tsx}',
       '**/__mocks__/**',
-      '**/public/test/**',
       '**/mocks.{ts,tsx}',
       '**/spec/**/*.{ts,tsx}',
     ],
