@@ -1,4 +1,3 @@
-prompts you simple math problems quickly. Your goal is to answer as many problems as you can quickly. Notice that
 
 
 what number sense is about can be found at [AGMath](https://www.agmath.com/57427/index.html),
