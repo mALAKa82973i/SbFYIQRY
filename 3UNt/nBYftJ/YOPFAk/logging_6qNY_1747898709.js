@@ -25,7 +25,6 @@ module.exports = [
       '**/*.gen.ts',
       '**/build/',
       '**/compiled/',
-      '**/dist/',
       'data/',
       'deployment_tools_config.json',
       'devenv',
