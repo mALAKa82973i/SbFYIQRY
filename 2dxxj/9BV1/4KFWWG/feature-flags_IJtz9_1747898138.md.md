@@ -1,5 +1,4 @@
 ## Individual and Entity Contributor License Agreement (CLA)
-
 Thank you for your interest in contributing to software projects managed by Asayer, Inc. (“We” or “Us”). This Contributor License Agreement (“Agreement”) documents the rights granted by contributors to Us. This Agreement is for your protection as a contributor as well as for our protection; it does not change your rights to use your own Contributions for any other purpose. To make this document effective, please read the Agreement carefully and then sign it. By signing this Agreement (including by clicking “I agree” or "Sign in with GitHub to agree" and submitting it to us electronically), You are creating a legally binding contract which becomes effective upon your signature or agreement. If You are less than eighteen years old, please have Your parents or guardian sign the Agreement. This Agreement covers your present, and all future, Contributions from You, and may cover more than one software project managed by Us.
 
 
