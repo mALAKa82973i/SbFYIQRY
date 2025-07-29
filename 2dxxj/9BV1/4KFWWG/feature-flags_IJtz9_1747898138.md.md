@@ -2,7 +2,6 @@
 
 Thank you for your interest in contributing to software projects managed by Asayer, Inc. (“We” or “Us”). This Contributor License Agreement (“Agreement”) documents the rights granted by contributors to Us. This Agreement is for your protection as a contributor as well as for our protection; it does not change your rights to use your own Contributions for any other purpose. To make this document effective, please read the Agreement carefully and then sign it. By signing this Agreement (including by clicking “I agree” or "Sign in with GitHub to agree" and submitting it to us electronically), You are creating a legally binding contract which becomes effective upon your signature or agreement. If You are less than eighteen years old, please have Your parents or guardian sign the Agreement. This Agreement covers your present, and all future, Contributions from You, and may cover more than one software project managed by Us.
 
-### 1. Definitions
 
 “Affiliates” means any Legal Entities that control, are controlled by, or under common control with another Legal Entity. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such Legal Entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares or securities which vote to elect the management or other persons who direct such Legal Entity or (iii) beneficial ownership of such entity. 
 
