@@ -28,7 +28,6 @@ We agree to comply with applicable laws regarding your Contribution, including c
 
 
 
-
 ### 3. Representations
 
 You further represent that each of Your Contributions is Your original creation. You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
