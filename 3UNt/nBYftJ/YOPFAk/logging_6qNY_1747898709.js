@@ -62,7 +62,6 @@ const { rules, ...baseConfig } = grafanaConfig;
         {
           patterns: [
             {
-              group: ['@grafana/ui*', '*/Layout/*'],
               importNames: ['Layout', 'HorizontalGroup', 'VerticalGroup'],
               message: 'Use Stack component instead.',
             },
