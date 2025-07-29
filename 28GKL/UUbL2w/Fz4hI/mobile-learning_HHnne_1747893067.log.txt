@@ -4,4 +4,3 @@
   std_srvs
 ## Declare things to be passed to dependent projects
 catkin_package(
-include_directories(
