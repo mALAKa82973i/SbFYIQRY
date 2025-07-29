@@ -2,7 +2,6 @@
 
   rviz
   sensor_msgs
-  std_msgs
   std_srvs
 ## Declare things to be passed to dependent projects
 catkin_package(
