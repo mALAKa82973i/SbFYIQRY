@@ -69,7 +69,6 @@ requesting existed.
 
 Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue on
 that repository and provide the following information:
-
 * **Use a clear and descriptive title** for the issue to identify the suggestion
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible
 * **Provide specific examples to demonstrate the steps**. Include copy/paste snippets which you use in those examples,
